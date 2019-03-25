@@ -214,7 +214,7 @@ footer ul li img {
 
 /*PORTFOLIO*/
 
-#msg {
+ #msg {
   font-size: 35px;
   font-family: 'Shadows Into Light', cursive;
   text-align: center;
@@ -270,4 +270,3 @@ footer ul li img {
   -webkit-column-count: 1;
   column-count:         1;
   }
-}
